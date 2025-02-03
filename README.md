@@ -1,60 +1,41 @@
-<!-- Animated Header with Typing Effect -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Your+Name;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
-</div>
+<!-- Header with Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=Hello+there!+I'm+%5BYour+Name%5D;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
-<!-- Animated Wave Divider -->
-<div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="400"/>
-</div>
+<!-- Animated GIF or Banner -->
+![Banner](https://your-image-url.com/banner.gif)
 
-<!-- Profile Views Counter -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> 
-</p>
+<!-- About Me Section -->
+## About Me
 
-<!-- Animated Tech Stack Icons -->
-<h3 align="center">🔥 My Tech Stack 🔥</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,py,tailwind,aws,git,github,figma,docker,postgres,redis,grafana,linux,nginx&perline=8" alt="tech stack icons" />
-</p>
+Hi, I'm [Your Name], a passionate [Your Profession] from [Your Location]. I love [Your Interests].
 
-<!-- GitHub Stats with Animation -->
-<h2 align="center">📈 GitHub Stats 📈</h2>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&hide_border=true"/>
-</div>
+- 🔭 I’m currently working on [Project Name]
+- 🌱 I’m currently learning [Technology/Skill]
+- 👯 I’m looking to collaborate on [Project Type]
+- 💬 Ask me about [Topics]
+- 📫 How to reach me: [Your Email]
+- ⚡ Fun fact: [Something Interesting About You]
 
-<!-- Streak Stats with Fire Animation -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&background=0d1117&hide_border=true&fire=DD2727&ring=DD2727&currStreakLabel=DD2727" alt="yourusername" />
-</div>
+<!-- GitHub Stats -->
+## GitHub Stats
 
-<!-- Activity Graph -->
-<h2 align="center">📌 Recent Activity 📌</h2>
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Your Name's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=00F72E&line=00F72E&point=FFFFFF&hide_border=true" />
-  </a>
-</div>
+![Sujal's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-<!-- Social Links with Animated Badges -->
-<h3 align="center">🌐 Connect With Me 🌐</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" />
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
-</div>
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+
+<!-- Dynamic Quotes -->
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=default&layout=default&font=default)
+
+<!-- Visitor Count -->
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=your-username.your-username)
+
+<!-- Social Media Links -->
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-blue?style=flat-square&logo=twitter)](https://twitter.com/your-handle)
+[![Personal Website](https://img.shields.io/badge/Website-YourSite-blue?style=flat-square&logo=google-chrome)](https://yourwebsite.com)
