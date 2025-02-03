@@ -10,12 +10,16 @@
 
 <!-- Neon Glow Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer;💻+Open+Source+Contributor;🌐+Blockchain+Enthusiast;🔥+1M+Total+Downloads;🎮+Game+Dev+Addict" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer;💻+JavaScript+Juggernaut;🎨+Frontend+Maestro;🤖+Webflow+Wizard;🌐+Responsive+Design+Guru;⚡+API+Integration+Specialist;🚀;💻+Open+Source+Contributor; " alt="Typing SVG" />
 </h1>
+
+<!-- to be used in near future
+🚦+Next.js+Ninja;🎛️+React.js+Rockstar;🤝+Open-Source+Advocate;💡+Problem-Solving+Prodigy;🔄+Continuous+Learner;🎯+Debugging+Dynamo; -->
+
 
 <!-- Interactive 3D Card Profile -->
 <div align="center">
-  <a href="https://app.daily.dev/yourprofile"><img src="https://api.daily.dev/devcards/yourkey.png?r=bs2" width="400" alt="Your Name's Dev Card"/></a>
+  <a href="https://app.daily.dev/sujalahuja"><img src="https://api.daily.dev/devcards/yourkey.png?r=bs2" width="400" alt="Your Name's Dev Card"/></a>
 </div>
 
 <!-- Floating Tech Stack Grid -->
@@ -41,10 +45,10 @@ ts,graphql,solidity,rust,py,tensorflow,aws,gcp,firebase,docker,kubernetes,postgr
 <!-- Featured Projects Carousel -->
 <h2 align="center">🌟 Featured Projects 🌟</h2>
 <div align="center">
-  <a href="https://github.com/sujalahuja01/project1">
+  <a href="https://github.com/sujalahuja01/ToDo_list/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujalahuja01&repo=project1&theme=radical&show_owner=true" />
   </a>
-  <a href="https://github.com/sujalahuja01/project2">
+  <a href="https://github.com/sujalahuja01/currency-converter/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujalahuja01&repo=project2&theme=merko&show_owner=true" />
   </a>
 </div>
@@ -54,11 +58,11 @@ ts,graphql,solidity,rust,py,tensorflow,aws,gcp,firebase,docker,kubernetes,postgr
   <img src="https://github-profile-trophy.vercel.app/?username=sujalahuja01&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" />
 </div>
 
-<!-- Dynamic Activity Timeline -->
+<!-- Dynamic Activity Timeline 
 <h2 align="center">📅 Development Timeline 📅</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sujalahuja01&layout=compact&theme=radical&langs_count=6&custom_title=Weekly+Development+Breakdown" />
-</div>
+</div> -->
 
 <!-- Social Matrix with Hover Effects -->
 <h2 align="center">🌍 Digital Footprint 🌍</h2>
@@ -89,13 +93,13 @@ ts,graphql,solidity,rust,py,tensorflow,aws,gcp,firebase,docker,kubernetes,postgr
   <img src="https://raw.githubusercontent.com/sujalahuja01/sujalahuja01/output/github-contribution-grid-snake.svg" />
 </div>
 
-<!-- Dynamic Spotify Player -->
+<!-- Dynamic Spotify Player
 <h2 align="center">🎧 Coding Vibes 🎧</h2>
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem" />
 </div>
-
-<!-- Floating Terminal Animation -->
+ -->
+<!-- Floating Terminal Animation 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ShivamGoyal1899/ShivamGoyal1899/master/terminal.gif" width="600" />
-</div>
+</div>-->
