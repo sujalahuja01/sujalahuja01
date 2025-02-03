@@ -13,13 +13,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer;💻+JavaScript+Juggernaut;🎨+Frontend+Maestro;🤖+Webflow+Wizard;🌐+Responsive+Design+Guru;⚡+API+Integration+Specialist;🚀;💻+Open+Source+Contributor; " alt="Typing SVG" />
 </h1>
 
-<!-- to be used in near future
-🚦+Next.js+Ninja;🎛️+React.js+Rockstar;🤝+Open-Source+Advocate;💡+Problem-Solving+Prodigy;🔄+Continuous+Learner;🎯+Debugging+Dynamo; -->
-
-
 <!-- Interactive 3D Card Profile -->
 <div align="center">
-  <a href="https://app.daily.dev/sujalahuja"><img src="https://api.daily.dev/devcards/yourkey.png?r=bs2" width="400" alt="Your Name's Dev Card"/></a>
+<a href="https://app.daily.dev/sujalahuja"><img src="https://api.daily.dev/devcards/v2/NzHLmKurksgdMvvsUPLqz.png?type=wide&r=fl3" width="400" alt="Sujal Ahuja's Dev Card"/></a>
 </div>
 
 <!-- Floating Tech Stack Grid -->
@@ -37,19 +33,19 @@ ts,graphql,solidity,rust,py,tensorflow,aws,gcp,firebase,docker,kubernetes,postgr
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujalahuja01&theme=github_dark" />
 </div>
 
-<!-- Dynamic 3D Contribution Graph -->
+<!-- Dynamic 3D Contribution Graph 
 <div align="center">
   <img src="https://github-readme-3d-profile.vercel.app/profile?username=sujalahuja01&bg_color=0d1117&text_color=00ff00&highlight_color=00ff00" width="800"/>
-</div>
+</div>-->
 
 <!-- Featured Projects Carousel -->
 <h2 align="center">🌟 Featured Projects 🌟</h2>
 <div align="center">
   <a href="https://github.com/sujalahuja01/ToDo_list/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujalahuja01&repo=project1&theme=radical&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujalahuja01&repo=https://sujalahuja01.github.io/ToDo_list/&theme=radical&show_owner=true" />
   </a>
   <a href="https://github.com/sujalahuja01/currency-converter/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujalahuja01&repo=project2&theme=merko&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujalahuja01&repo=https://sujalahuja01.github.io/currency-converter/&theme=merko&show_owner=true" />
   </a>
 </div>
 
@@ -88,10 +84,10 @@ ts,graphql,solidity,rust,py,tensorflow,aws,gcp,firebase,docker,kubernetes,postgr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalahuja01&layout=compact&theme=gotham&langs_count=8&hide=html,css"/>
 </div>
 
-<!-- Contribution Snake Animation -->
+<!-- Contribution Snake Animation 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sujalahuja01/sujalahuja01/output/github-contribution-grid-snake.svg" />
-</div>
+</div>-->
 
 <!-- Dynamic Spotify Player
 <h2 align="center">🎧 Coding Vibes 🎧</h2>
