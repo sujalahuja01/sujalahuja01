@@ -10,7 +10,7 @@
 
 <!-- Neon Glow Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer;💻+Open+Source+Contributor;🌐+Blockchain+Enthusiast;🔥+1M+Total+Downloads;🎮+Game+Dev+Addict" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer;💻+Open+Source+Contributor;" alt="Typing SVG" />
 </h1>
 
 <!-- Interactive 3D Card Profile -->
