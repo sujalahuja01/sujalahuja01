@@ -1,103 +1,100 @@
-<!-- Holographic Interface Effect -->
+<!-- Stargate Portal Activation -->
 <div align="center">
-  <img src="https://i.imgur.com/5cXvAS7.gif" width="100%"/>
+  <img src="https://i.imgur.com/CxU4Btk.gif" width="100%"/>
 </div>
 
-<!-- Quantum Matrix Terminal -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sujalahuja01/sujalahuja01/main/assets/quantum_matrix.gif" width="100%"/>
+<!-- Alien Transmission Decoder -->
+<div align="center>
+  <img src="https://raw.githubusercontent.com/sujalahuja01/sujalahuja01/main/assets/stellar_banner.svg" width="100%"/>
 </div>
 
-<!-- Neural Interface Typing Animation -->
+<!-- Galactic Interface Console -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cyberway&size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=1000&lines=++%F0%9F%94%A5+QUANTUM+WEBFLOW+ENGINEER;%E2%9A%99%EF%B8%8F+FRONTEND+NEURALINK+SPECIALIST;%F0%9F%96%A5%EF%B8%8F+FULL-STACK+CYBER-ARCHITECT;%F0%9F%92%BB+API+SYNTHESIS+ENGINEER;%F0%9F%91%BE+MACHINE+LEARNING+OPERATIVE;%F0%9F%94%8C+BLOCKCHAIN+CRYPTOMANCER;" alt="Neural Interface" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Alien&size=30&duration=4000&color=7B2CBF&center=true&vCenter=true&width=1000&lines=++%F0%9F%9B%A8+STELLAR+WEBFLOW+ENGINEER;%F0%9F%94%A7+FRONTEND+OF+THE+THIRD+REALM;%F0%9F%8C%8C+QUANTUM+STACK+PIONEER;%F0%9F%92%BB+HYPERDRIVE+API+ARCHITECT;%F0%9F%91%BE+NEURAL+NETWORK+SHAPER;%E2%9A%99%EF%B8%8F+BLOCKCHAIN+OF+THE+COSMOS;" alt="Stellar Interface" />
+</h1>
 
-<!-- Holographic Identity Projection -->
+<!-- Astro-Projection Matrix -->
 <div align="center">
-  <a href="https://app.daily.dev/sujalahuja01">
-    <img src="https://api.cyberdev.pro/devcards/v1/sujalahuja01?type=holo&response=png&glow=true" width="450" alt="Cyber Profile Interface"/>
-  </a>
+  <img src="https://astro-profile.vercel.app/api/3d?username=sujalahuja01&bg=0d1117&text=7B2CBF&stars=150&speed=2&size=400" />
 </div>
 
-<!-- Quantum Core Stack -->
-<h2 align="center">
-  <img src="https://img.icons8.com/nolan/64/computer.png"/> TECH MATRIX <img src="https://img.icons8.com/nolan/64/computer.png"/>
-</h2>
+<!-- Xenotech Stack Grid -->
+<h2 align="center">🛸 EXTRATERRESTRIAL TECH STACK 🛸</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,webflow,tensorflow,solidity,rust,graphql,aws,gcp,threejs,wasm&theme=dark&perline=11&glow=true&opacity=80" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,webflow,tensorflow,solidity,wasm,threejs,aws,azure,graphql,rust&theme=dark&perline=11&glow=true&glow_color=7B2CBF" />
 </div>
 
-<!-- Neural Network Activity Visualizer -->
+<!-- Nebula Activity Visualization -->
 <div align="center">
-  <img height="220" src="https://neuro-chart.vercel.app/api/cortex?user=sujalahuja01&theme=cyberpunk&show_border=true" />
-  <img height="220" src="https://neuro-chart.vercel.app/api/synapses?user=sujalahuja01&theme=cyberpunk&compact=true" />
+  <img height="250" src="https://nebula-stats.vercel.app/api?username=sujalahuja01&show_icons=true&theme=deep&bg_color=0d1117&title_color=7B2CBF&text_color=9F86C0&icon_color=E0AAFF&include_all_commits=true&count_private=true" />
+  <img height="250" src="https://nebula-stats.vercel.app/api/top-langs/?username=sujalahuja01&layout=compact&theme=deep&bg_color=0d1117&title_color=7B2CBF&text_color=9F86C0&langs_count=8" />
 </div>
 
-<!-- Holographic Projection Grid -->
+<!-- Wormhole Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-4d-stats.vercel.app/api?username=sujalahuja01&show_icons=true&theme=cyber&include_all_commits=true&count_private=true&border_radius=20&glow_color=00F7FF&icon_color=00FFD1&title_color=00F7FF&text_color=FFFFFF&bg_color=0d1117"/>
+  <img src="https://wormhole-graph.vercel.app/api/contributions?username=sujalahuja01&theme=space_time&tunnel_effect=true&frequency=0.5" width="800"/>
 </div>
 
-<!-- Quantum Entanglement Contributions -->
+<!-- Astral Project Showcase -->
+<h2 align="center">🌌 EVENT HORIZON PROJECTS 🌌</h2>
 <div align="center">
-  <img src="https://quantum-contributions.vercel.app/api/quantum-chart?sujalahuja01&theme=nebula&temporal_distortion=true" width="800"/>
+  [![Quantum Web Portal](https://github-readme-stellar.vercel.app/api/pin?username=sujalahuja01&repo=your-webflow-project&theme=space&show_owner=true&border_radius=15&border_color=7B2CBF)](https://github.com/sujalahuja01/your-webflow-project)
+  [![Neural Singularity](https://github-readme-stellar.vercel.app/api/pin?username=sujalahuja01&repo=your-ai-project&theme=space&show_owner=true&border_radius=15&border_color=7B2CBF)](https://github.com/sujalahuja01/your-ai-project)
 </div>
 
-<!-- Cybernetic Projects Interface -->
-<h2 align="center">
-  <img src="https://img.icons8.com/nolan/64/console.png"/> PROJECT MATRIX <img src="https://img.icons8.com/nolan/64/console.png"/>
-</h2>
+<!-- Singularity Achievement Core -->
 <div align="center">
-  [![Cyber Webflow Interface](https://github-readme-hologram.vercel.app/api/pin?username=sujalahuja01&repo=your-webflow-project&theme=cyber&show_owner=true&border_glow=true)](https://github.com/sujalahuja01/your-webflow-project)
-  [![Neural API Gateway](https://github-readme-hologram.vercel.app/api/pin?username=sujalahuja01&repo=your-api-project&theme=cyber&show_owner=true&border_glow=true)](https://github.com/sujalahuja01/your-api-project)
+  <img src="https://blackhole-trophies.vercel.app/?username=sujalahuja01&theme=singularity&column=7&margin-w=5&margin-h=5&event_horizon=true" />
 </div>
 
-<!-- Achievement Core -->
-<div align="center">
-  <img src="https://cyber-trophies.vercel.app/?username=sujalahuja01&theme=cyberpunk&rank_icon=github&column=7&margin-w=5&margin-h=5&no-bg=true" />
-</div>
-
-<!-- Digital Consciousness Manifestation -->
-<h2 align="center">
-  <img src="https://img.icons8.com/nolan/64/internet.png"/> NEURAL NETWORK PRESENCE <img src="https://img.icons8.com/nolan/64/internet.png"/>
-</h2>
+<!-- Cosmic Communication Array -->
+<h2 align="center">📡 GALACTIC TRANSMISSION FREQUENCIES 📡</h2>
 <div align="center">
   <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/-LINKEDIN%20PROFILE-0A66C2?style=cyber&logo=linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile&glow=true"/>
+    <img src="https://img.shields.io/badge/-LINKEDIN%20FEED-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile&label=Corporate%20Uplink"/>
   </a>
   <a href="https://dev.to/sujalahuja01">
-    <img src="https://img.shields.io/badge/-DEV.THINK-0A0A0A?style=cyber&logo=dev.to&logoColor=white&glow=true"/>
+    <img src="https://img.shields.io/badge/-DEV%20CHANNEL-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&label=Knowledge%20Stream"/>
   </a>
   <a href="https://leetcode.com/sujalahuja01">
-    <img src="https://img.shields.io/badge/-CODE%20WARS-FFA116?style=cyber&logo=leetcode&logoColor=black&glow=true"/>
+    <img src="https://img.shields.io/badge/-CODE%20WARS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&label=Logic%20Battles"/>
   </a>
 </div>
 
-<!-- Quantum Coding Activity -->
+<!-- Temporal Coding Activity -->
 <div align="center">
-  <img src="https://github-readme-quantum-stats.vercel.app/api/wakatime?username=sujalahuja01&theme=cyber&layout=compact&langs_count=8&custom_title=TEMPORAL%20CODING%20ACTIVITY" />
+  <img src="https://temporal-stats.vercel.app/api/wakatime?username=sujalahuja01&theme=space_time&layout=compact&langs_count=8&custom_title=TIME%20DILATION%20ANALYSIS" />
 </div>
 
-<!-- Cyber DNA Strand -->
+<!-- Quantum Entanglement Snake -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sujalahuja01/sujalahuja01/output/quantum-dna.svg" />
+  <img src="https://raw.githubusercontent.com/sujalahuja01/sujalahuja01/output/quantum-entanglement-snake.svg" />
 </div>
 
-<!-- Neuro-Synth Audio Interface -->
-<h2 align="center">
-  <img src="https://img.icons8.com/nolan/64/audio-wave.png"/> COGNITIVE RHYTHMS <img src="https://img.icons8.com/nolan/64/audio-wave.png"/>
-</h2>
+<!-- Astro Jams Interface -->
+<h2 align="center">🎵 SPACE-TIME VIBRATION FREQUENCIES 🎵</h2>
 <div align="center">
-  <img src="https://neuro-spotify.vercel.app/api/player?user=sujalahuja01&theme=cyber&cover_glow=true&animated_cover=true" />
+  <img src="https://astro-spotify.vercel.app/api/player?user=sujalahuja01&theme=nebula&animated=true&spectrum=#7B2CBF" />
 </div>
 
-<!-- Termination Sequence -->
+<!-- Alien Code Transmission -->
 <div align="center">
-  <img src="https://i.imgur.com/3tS9al5.gif" width="600" />
+  <img src="https://i.imgur.com/vrRQB3b.gif" width="600" />
 </div>
 
-<!-- Quantum Signature -->
+<!-- Cosmic Signature -->
 <div align="center">
-  <img src="https://readme-cyber-sig.vercel.app/api/signature?name=SUJAL%20AHUJA&company=QUANTUM%20DEVELOPMENT&role=FULL-STACK%20CYBER%20ENGINEER&color=00F7FF&glow=true" width="400"/>
+  <pre>
+  ███████╗██╗░░░██╗░░░░░██╗░█████╗░██╗░░░░░  ░█████╗░██╗░░██╗██╗░░░██╗░█████╗░
+  ██╔════╝██║░░░██║░░░░░██║██╔══██╗██║░░░░░  ██╔══██╗██║░░██║██║░░░██║██╔══██╗
+  █████╗░░██║░░░██║░░░░░██║███████║██║░░░░░  ██║░░╚═╝███████║██║░░░██║███████║
+  ██╔══╝░░██║░░░██║██╗░░██║██╔══██║██║░░░░░  ██║░░██╗██╔══██║██║░░░██║██╔══██║
+  ██║░░░░░╚██████╔╝╚█████╔╝██║░░██║███████╗  ╚█████╔╝██║░░██║╚██████╔╝██║░░██║
+  ╚═╝░░░░░░╚═════╝░░╚════╝░╚═╝░░╚═╝╚══════╝  ░╚════╝░╚═╝░░╚═╝░╚═════╝░╚═╝░░╚═╝
+  </pre>
+</div>
+
+<!-- Gravitational Wave Footer -->
+<div align="center">
+  <img src="https://i.imgur.com/axqZDZv.gif" width="100%"/>
 </div>
