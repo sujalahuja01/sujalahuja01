@@ -21,9 +21,9 @@
 <!-- Floating Tech Stack Grid -->
 <h2 align="center">⚡ Tech Arsenal ⚡</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,webflow,tailwind&theme=dark&perline=11" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,express,nodejs,mongodb,webflow,tailwind,py,&theme=dark&perline=11" />
 </div>
-<!--ts  graphql,solidity,rust,py,tensorflow,aws,gcp,firebase,docker,kubernetes,postgres,-->
+<!--ts  graphql,solidity,rust,,tensorflow,aws,gcp,firebase,docker,kubernetes,postgres,-->
 
 <!-- Animated GitHub Stats Visualization -->
 <div align="center">
