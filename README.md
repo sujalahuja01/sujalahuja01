@@ -41,23 +41,28 @@
 <!-- Featured Projects Carousel -->
 <h2 align="center">🌟 Featured Projects 🌟</h2>
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&show_owner=true" />
+  <a href="https://github.com/sujalahuja01/portfolio-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujalahuja01&repo=portfolio-1&theme=radical&show_owner=true" />
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=merko&show_owner=true" />
+  
+  <a href="https://github.com/sujalahuja01/currency-converter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujalahuja01&repo=currency-converter&theme=merko&show_owner=true" />
+  </a>
+  
+  <a href="https://github.com/sujalahuja01/ToDo-list">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujalahuja01&repo=ToDo-list&theme=merko&show_owner=true" />
   </a>
 </div>
 
 <!-- GitHub Trophy Wall -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sujalahuja01&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" />
 </div>
 
 <!-- Dynamic Activity Timeline -->
 <h2 align="center">📅 Development Timeline 📅</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&layout=compact&theme=radical&langs_count=6&custom_title=Weekly+Development+Breakdown" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sujalahuja01&layout=compact&theme=radical&langs_count=6&custom_title=Weekly+Development+Breakdown" />
 </div>
 
 <!-- Social Matrix with Hover Effects -->
@@ -80,22 +85,23 @@
 <!-- Real-time Coding Activity -->
 <h2 align="center">👨💻 Current Focus 👨💻</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gotham&hide_title=true&include_all_commits=true&count_private=true&line_height=24"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=gotham&langs_count=8&hide=html,css"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sujalahuja01&show_icons=true&theme=gotham&hide_title=true&include_all_commits=true&count_private=true&line_height=24"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalahuja01&layout=compact&theme=gotham&langs_count=8&hide=html,css"/>
 </div>
 
 <!-- Contribution Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sujalahuja01/sujalahuja01/output/github-contribution-grid-snake.svg" />
 </div>
 
 <!-- Dynamic Spotify Player -->
+<!--
 <h2 align="center">🎧 Coding Vibes 🎧</h2>
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem" />
-</div>
+</div>  -->
 
 <!-- Floating Terminal Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShivamGoyal1899/ShivamGoyal1899/master/terminal.gif" width="600" />
+  <img src="https://raw.githubusercontent.com/sujalahuja01/sujalahuja01/master/terminal.gif" width="600" />
 </div>
