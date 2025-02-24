@@ -14,15 +14,16 @@
 </h1>
 
 <!-- Interactive 3D Card Profile -->
-<div align="center">
+<!--  <div align="center">
   <a href="https://app.daily.dev/yourprofile"><img src="https://api.daily.dev/devcards/yourkey.png?r=bs2" width="400" alt="Your Name's Dev Card"/></a>
-</div>
+</div> -->
 
 <!-- Floating Tech Stack Grid -->
 <h2 align="center">⚡ Tech Arsenal ⚡</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,graphql,solidity,rust,py,tensorflow,aws,gcp,firebase,docker,kubernetes,postgres,mongodb,redis,electron,figma,threejs,blender&theme=dark&perline=11" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,webflow,tailwind&theme=dark&perline=11" />
 </div>
+<!--ts  graphql,solidity,rust,py,tensorflow,aws,gcp,firebase,docker,kubernetes,postgres,-->
 
 <!-- Animated GitHub Stats Visualization -->
 <div align="center">
